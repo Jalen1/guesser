@@ -1,7 +1,7 @@
 # Guessing Game
 ## By Jalen Wu
 
-A reinterpretation of the classic "Guess the Number" game in which players must guess a randomly generated number in a given range. 
+An implementation of the classic "Guess the Number" game in which players must guess a randomly generated number in a given range. 
 My version of the game implements a player vs computer feature, in which the player can either:
 1. Win, if they correctly guess the number before the computer can.
 2. Lose, if the computer guesses the number before the player does.
